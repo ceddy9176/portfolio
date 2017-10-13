@@ -6,13 +6,6 @@
 
 _This is my personal portfolio webpage containing descriptions about projects I have done._
 
-
-
-* _HTML_
-* _CSS_
-* _Bootstrap_
-
-
 ## Support and contact details
 
 _Connor Miller @ Ceddy9176@gmail.com_

@@ -1,0 +1,35 @@
+body {
+  padding-top: 54px;
+  background-color: #e6e6e6;
+
+
+}
+
+@media (min-width:992px) {
+  body {
+    padding-top: 30px;
+
+  }
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+
+}
+
+.pagination {
+  margin-bottom: 30px;
+
+}
+
+small {
+  font-size: 18px;
+  font-style: italic;
+  color: #8c8c8c;
+
+}
+
+img {
+  width: 100%;
+
+}
