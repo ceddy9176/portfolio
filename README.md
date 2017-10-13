@@ -6,6 +6,12 @@
 
 _This is my personal portfolio webpage containing descriptions about projects I have done._
 
+
+## link
+
+_Here is the link to the webpage https://ceddy9176.github.io/portfolio/ _
+
+
 ## Support and contact details
 
 _Connor Miller @ Ceddy9176@gmail.com_
@@ -20,4 +26,4 @@ _Connor Miller @ Ceddy9176@gmail.com_
 
 *None*
 
-Copyright (c) 2017 **_Connor Miller**
+Copyright (c) 2017 **Connor Miller**
