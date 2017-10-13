@@ -1,6 +1,6 @@
 # _portfolio_
 
-## https://ceddy9176.github.io/portfolio
+### https://ceddy9176.github.io/portfolio
 
 #### _{Intro to web coding Independent project for Epicodus}, {10.13.2017}_
 
@@ -19,8 +19,8 @@ _git clone (put repository here)_
 _cd (file name)_
 _git init_
 _git config --global user.name "(put your name)"_
-_atom ._
-_and now your all set_
+_atom._
+_all done_
 
 ## Support and contact details
 
