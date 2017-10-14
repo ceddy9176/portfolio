@@ -9,7 +9,7 @@ body {
 
 @media (min-width:992px) {
   body {
-    padding-top: 0px;
+  padding-top: 0px;
 
   }
 }
@@ -31,7 +31,7 @@ img {
 
 }
 .customfont {
-    font-family: 'Alegreya Sans SC', sans-serif;
+  font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .navbar-brand {
@@ -44,9 +44,9 @@ img {
   text-align: center ;
   padding-top: 50px;
   text-indent: 50px;
-    margin-top: : 80px;
-    margin-left: 200px;
-    margin-right: 200px;
+  margin-top: : 80px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .photosize {
@@ -63,7 +63,6 @@ hr {
 
 }
 
-<<<<<<< HEAD
 footer {
   position:fixed ;
   left: 0;
@@ -118,9 +117,9 @@ input[style=submit]:hover {
 
 .content {
   padding-bottom: 100px;
-  
+
 }
-=======
+
 .center-text {
   text-indent: 50px;
   margin-top: : 80px;
@@ -128,4 +127,3 @@ input[style=submit]:hover {
   margin-right: 200px;
 
 }
->>>>>>> 29e2b218b8f9abcf657de57c245bdb488c7fe5c3
