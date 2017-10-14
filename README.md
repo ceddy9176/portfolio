@@ -20,7 +20,7 @@ _cd (file name)_
 _git init_
 _git config --global user.name "(put your name)"_
 _atom._
-_all done_
+_all finished_
 
 ## Support and contact details
 
