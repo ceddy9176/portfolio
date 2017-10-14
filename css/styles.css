@@ -63,6 +63,7 @@ hr {
 
 }
 
+<<<<<<< HEAD
 footer {
   position:fixed ;
   left: 0;
@@ -119,3 +120,12 @@ input[style=submit]:hover {
   padding-bottom: 100px;
   
 }
+=======
+.center-text {
+  text-indent: 50px;
+  margin-top: : 80px;
+  margin-left: 200px;
+  margin-right: 200px;
+
+}
+>>>>>>> 29e2b218b8f9abcf657de57c245bdb488c7fe5c3
