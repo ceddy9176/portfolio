@@ -3,33 +3,28 @@ body {
   background-color: #e6e6e6;
   margin: 0;
   height: 100%;
-
-
 }
 
 @media (min-width:992px) {
   body {
   padding-top: 0px;
-
   }
 }
 
 .portfolio-item {
   margin-bottom: 30px;
-
 }
 
 small {
   font-size: 18px;
   font-style: italic;
   color: #8c8c8c;
-
 }
 
 img {
   width: 100%;
-
 }
+
 .customfont {
   font-family: 'Alegreya Sans SC', sans-serif;
 }
@@ -60,7 +55,6 @@ img {
 
 hr {
   width: 80%;
-
 }
 
 footer {
@@ -81,7 +75,6 @@ Input[type=text], select, textarea {
   margin-top: 12px;
   margin-bottom: 12px;
   resize: vertical;
-
 }
 
 input[style=submit] {
@@ -101,7 +94,6 @@ input[style=submit]:hover {
   border-radius: 5px;
   background-color: white;
   padding: 20px;
-
 }
 
 .wrapper {
@@ -112,12 +104,10 @@ input[style=submit]:hover {
 .py-5 {
   padding-top: 10px !important;
   padding-bottom: 30px !important;
-
 }
 
 .content {
   padding-bottom: 100px;
-
 }
 
 .center-text {
@@ -125,5 +115,4 @@ input[style=submit]:hover {
   margin-top: : 80px;
   margin-left: 200px;
   margin-right: 200px;
-
 }

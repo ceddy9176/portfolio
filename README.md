@@ -2,29 +2,27 @@
 
 ### https://ceddy9176.github.io/portfolio
 
-#### _{Intro to web coding Independent project for epicodus}, {10.13.2017}_
+#### _Intro to web coding Independent project for Epicodus, 10.13.2017_
 
-#### By _**{BY Connor Miller}**_
+#### By _**BY Connor Miller**_
 
 ## Description
 
-_{This webpage shows the different projects that I've done and shows the skills that I have learned along the way from building these other web pages.}_
+_This webpage shows the different projects that I've done and shows the skills that I have learned along the way from building these other web pages._
 
 ## Setup/Installation Requirements
 
 _clone this repository_
 _open your terminal and input this command_
 _cd desktop_
-_git clone (put repository here)_
-_cd (file name)_
-_git init_
-_git config --global user.name "(put your name)"_
-_atom._
+_git clone https://github.com/ceddy9176/portfolio_
+_cd portfolio_
+_click index.html_
 _all done_
 
 ## Support and contact details
 
-_For any questions or concerns you can email me @ ceddy9176@gmail.com_
+_For any questions or concerns you can email me @ceddy9176@gmail.com_
 
 ## Technologies Used
 
@@ -32,6 +30,6 @@ _html, css, bootstrap_
 
 ### License
 
-*{This software is licensed under the MIT License}*
+*This software is licensed under the MIT License*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Connor Miller_**
