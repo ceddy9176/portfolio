@@ -15,7 +15,7 @@ _This webpage shows the different projects that I've done and shows the skills t
 _clone this repository_
 _open your terminal and input this command_
 _cd desktop_
-_git clone https://github.com/ceddy9176/portfolio_
+_git clone https://github.com/ceddy9176/portfolio _
 _cd portfolio_
 _click index.html_
 _all done_
