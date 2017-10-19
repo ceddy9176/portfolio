@@ -11,14 +11,19 @@
 _This webpage shows the different projects that I've done and shows the skills that I have learned along the way from building these other web pages._
 
 ## Setup/Installation Requirements
+  _clone this repository_
 
-_clone this repository_
-_open your terminal and input this command_
-_cd desktop_
-_git clone https://github.com/ceddy9176/portfolio _
-_cd portfolio_
-_click index.html_
-_all done_
+  _open your terminal and input this command_
+
+  _cd desktop_
+
+  _git clone https://github.com/ceddy9176/portfolio_
+
+  _cd portfolio_
+
+  _click index.html_
+  
+  _all done_
 
 ## Support and contact details
 
