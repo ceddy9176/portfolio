@@ -21,8 +21,8 @@ _This webpage shows the different projects that I've done and shows the skills t
 
   _cd portfolio_
 
-  _click index.html_
-  
+  _open index.html_
+
   _all done_
 
 ## Support and contact details
